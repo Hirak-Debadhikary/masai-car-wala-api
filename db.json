@@ -3,6 +3,7 @@
     {
       "id": 1,
       "brand": "Tata",
+      "url": "https://imgd.aeplcdn.com/0x0/n/cw/ec/41645/tata-nexon-right-front-three-quarter3.jpeg",
       "type": "Manual",
       "year": 2019,
       "kms": 10000,
@@ -12,6 +13,7 @@
     {
       "id": 2,
       "brand": "Maruti",
+      "url": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Ertiga/8711/1650012049600/front-left-side-47.jpg?impolicy=resize&imwidth=480",
       "type": "AMT",
       "year": 2017,
       "kms": 8000,
@@ -21,6 +23,7 @@
     {
       "id": 3,
       "brand": "Tesla",
+      "url": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tesla/Model-S/5252/1611840999494/front-left-side-47.jpg",
       "type": "AMT",
       "year": 2022,
       "kms": 5000,
@@ -30,11 +33,52 @@
     {
       "id": 4,
       "brand": "Thar",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mahindra_Thar_Photoshoot_At_Perupalem_Beach_%28West_Godavari_District%2CAP%2CIndia_%29_Djdavid.jpg/800px-Mahindra_Thar_Photoshoot_At_Perupalem_Beach_%28West_Godavari_District%2CAP%2CIndia_%29_Djdavid.jpg",
       "type": "Manual",
       "year": 2020,
       "kms": 4000,
       "Description": "Mahandra Thar with all original documents",
       "Price": 200000
+    },
+    {
+      "id": 5,
+      "brand": "Ford",
+      "url": "https://imgd.aeplcdn.com/0x0/n/cw/ec/37640/endeavour-exterior-right-front-three-quarter-149472.jpeg",
+      "type": "",
+      "year": "",
+      "km": "",
+      "description": "",
+      "price": ""
+    },
+    {
+      "id": 6,
+      "brand": "Ford",
+      "url": "https://imgd.aeplcdn.com/0x0/n/cw/ec/37640/endeavour-exterior-right-front-three-quarter-149472.jpeg",
+      "type": "Manual",
+      "year": "2022",
+      "km": "w",
+      "description": "w",
+      "price": "w"
+    },
+    {
+      "id": 7,
+      "brand": "Honda",
+      "url": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Honda/WR-V/7665/1645419998984/front-left-side-47.jpg",
+      "type": "Manual",
+      "year": "2022",
+      "km": "1500",
+      "description": "Honda Brand new",
+      "price": "157600"
+    },
+    {
+      "id": 8,
+      "brand": "Honda",
+      "url": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Honda/WR-V/7665/1645419998984/front-left-side-47.jpg",
+      "type": "Automated",
+      "year": "2022",
+      "km": "56",
+      "description": "This is a brand-new Honda Car",
+      "price": "202020"
     }
   ]
 }

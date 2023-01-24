@@ -80,5 +80,17 @@
       "description": "This is a brand-new Honda Car",
       "price": "202020"
     }
+  ],
+  "wishlisted_cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "url": "https://imgd.aeplcdn.com/0x0/n/cw/ec/41645/tata-nexon-right-front-three-quarter3.jpeg",
+      "year": 2019,
+			"type":"Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    }
   ]
 }

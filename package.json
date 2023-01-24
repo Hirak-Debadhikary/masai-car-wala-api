@@ -1,0 +1,16 @@
+{
+  "name": "masai-car-wala",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "devDependencies": {},
+  "description": "masai-car-wala"
+}

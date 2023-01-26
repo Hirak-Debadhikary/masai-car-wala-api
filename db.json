@@ -118,5 +118,15 @@
       "password": "1111",
       "confrimPasswoed": "1111"
     }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "tackForTheDay": "Code"
+    },
+    {
+      "id": 2,
+      "tackForTheDay": "sleep"
+    }
   ]
 }

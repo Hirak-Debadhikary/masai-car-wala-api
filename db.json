@@ -87,7 +87,7 @@
       "brand": "Tata",
       "url": "https://imgd.aeplcdn.com/0x0/n/cw/ec/41645/tata-nexon-right-front-three-quarter3.jpeg",
       "year": 2019,
-			"type":"Manual",
+      "type": "Manual",
       "kms": 10000,
       "Description": "Tata Altroz with all original documents",
       "Price": 500000
@@ -97,10 +97,26 @@
       "brand": "Fort",
       "url": "https://imgd.aeplcdn.com/0x0/n/cw/ec/41645/tata-nexon-right-front-three-quarter3.jpeg",
       "year": 2015,
-			"type":"AMT",
+      "type": "AMT",
       "kms": 20000,
       "Description": "Fort Altroz with all original documents",
       "Price": 600000
+    }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "email": "hirak@gmail.com",
+      "userName": "Hirak",
+      "password": "1234",
+      "confrimPasswoed": "1234"
+    },
+    {
+      "id": 2,
+      "email": "babli@gmail.com",
+      "userName": "babli",
+      "password": "1111",
+      "confrimPasswoed": "1111"
     }
   ]
 }

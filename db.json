@@ -128,5 +128,371 @@
       "id": 2,
       "tackForTheDay": "sleep"
     }
+  ],
+  "results": [
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What French artist/band is known for playing on the midi instrument &quot;Launchpad&quot;?",
+      "correct_answer": "Madeon",
+      "incorrect_answers": ["Daft Punk ", "Disclosure", "David Guetta"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which singer was featured in Jack &Uuml; (Skrillex &amp; Diplo)&#039;s 2015 song &#039;Where Are &Uuml; Now&#039;?",
+      "correct_answer": "Justin Bieber",
+      "incorrect_answers": ["Selena Gomez", "Ellie Goulding", "The Weeknd"]
+    },
+    {
+      "category": "Celebrities",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which actress married Michael Douglas in 2000?",
+      "correct_answer": "Catherine Zeta-Jones",
+      "incorrect_answers": ["Ruth Jones", "Pam Ferris", "Sara Sugarman"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "In the game &quot;Melty Blood Actress Again Current Code&quot;, you can enter Blood Heat mode in Half Moon style.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In which order do you need to hit some Deku Scrubs to open the first boss door in &quot;Ocarina of Time&quot;?",
+      "correct_answer": "2, 3, 1",
+      "incorrect_answers": ["1, 2, 3", "1, 3, 2", "2, 1, 3"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "The first &quot;Metal Gear&quot; game was released for the PlayStation 1.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which film star has his statue in Leicester Square?",
+      "correct_answer": "Charlie Chaplin",
+      "incorrect_answers": [
+        "Paul Newman",
+        "Rowan Atkinson ",
+        "Alfred Hitchcock"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the destination of the missing flight MH370?",
+      "correct_answer": "Beijing",
+      "incorrect_answers": ["Kuala Lumpur", "Singapore", "Tokyo"]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What do you call a baby bat?",
+      "correct_answer": "Pup",
+      "incorrect_answers": ["Cub", "Chick", "Kid"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the subject of the 2014 song &quot;CoCo&quot; by American rapper O. T. Genasis?",
+      "correct_answer": "Cocaine",
+      "incorrect_answers": [
+        "Conan O&#039;Brien",
+        "Cobalt(II) carbonate",
+        "Coconut cream pie"
+      ]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In &quot;Avatar: The Last Airbender&quot;, which element does Aang begin to learn after being defrosted?",
+      "correct_answer": "Water",
+      "incorrect_answers": ["Air", "Earth", "Fire"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the Portal series, Aperture Science was founded under what name in the early 1940s?",
+      "correct_answer": "Aperture Fixtures",
+      "incorrect_answers": [
+        "Aperture Lavatories",
+        "Aperture Science Innovators",
+        "Wheatley Laboratories"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who invented the &quot;Flying Shuttle&quot; in 1738; one of the key developments in the industrialization of weaving?",
+      "correct_answer": "John Kay",
+      "incorrect_answers": [
+        "James Hargreaves",
+        "Richard Arkwright",
+        "John Deere"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In which game does a character say, &quot;Sometimes, I dream about cheese&quot;?",
+      "correct_answer": "Half Life 2",
+      "incorrect_answers": [
+        "Team Fortress 2",
+        "Dark Souls",
+        "Serious Sam: The Second Encounter"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was Radiohead&#039;s first album?",
+      "correct_answer": "Pablo Honey",
+      "incorrect_answers": ["The Bends", "Kid A", "A Moon Shaped Pool"]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The book &quot;The Little Prince&quot; was written by...",
+      "correct_answer": "Antoine de Saint-Exup&eacute;ry",
+      "incorrect_answers": [
+        "Miguel de Cervantes Saavedra",
+        "Jane Austen",
+        "F. Scott Fitzgerald"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is not a default game mode in Counter-Strike (2000)?",
+      "correct_answer": "Arms Race",
+      "incorrect_answers": ["Hostage Rescue", "Bomb Defusal", "Assassination"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": ".rs is the top-level domain for what country?",
+      "correct_answer": "Serbia",
+      "incorrect_answers": ["Romania", "Russia", "Rwanda"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What level do you have to be to get a service medal on CS:GO?",
+      "correct_answer": "40",
+      "incorrect_answers": ["50", "30", "20"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Resident Evil 4 was originally meant to be a Nintendo GameCube exclusive.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who won the &quot;Champions League&quot; in 1999?",
+      "correct_answer": "Manchester United",
+      "incorrect_answers": ["Barcelona", "Bayern Munich", "Liverpool"]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What year did &quot;Attack on Titan&quot; first air?",
+      "correct_answer": "2013",
+      "incorrect_answers": ["2014", "2012", "2015"]
+    },
+    {
+      "category": "Politics",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "George Clinton, Vice President of the United States (1805-1812), is an ancestor of President Bill Clinton.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In &quot;Call Of Duty: Zombies&quot;, &quot;Richtofen&quot; is in possession of two filled blood vials belonging to who?",
+      "correct_answer": "Sal DeLuca and Finn O&#039;Leary",
+      "incorrect_answers": [
+        "Richtofen",
+        "Al Arlington and Sal DeLuca",
+        "Jessica Rose and Jack Vincent"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The game &quot;Pocket Morty&quot; has a Morty called &quot;Pocket Mortys Morty&quot;?",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who invented the &quot;Spanning Tree Protocol&quot;?",
+      "correct_answer": "Radia Perlman",
+      "incorrect_answers": ["Paul Vixie", "Vint Cerf", "Michael Roberts"]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How old was Adolf Hitler when he died?",
+      "correct_answer": "56",
+      "incorrect_answers": ["43", "65", "47"]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the TV show &quot;Mad Men&quot;, what was Donald Draper&#039;s birthname?",
+      "correct_answer": "Richard &quot;Dick&quot; Whitman",
+      "incorrect_answers": [
+        "Donald Draper",
+        "John Ashbury",
+        "Michael &quot;Mikey&quot; Wilhelm"
+      ]
+    },
+    {
+      "category": "Celebrities",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which American celebrity died in 1977 playing golf in La Moraleja, Madrid?",
+      "correct_answer": "Bing Crosby",
+      "incorrect_answers": ["Elvis Presley", "Charlie Chaplin", "Groucho Marx"]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Toussaint Louverture led a successful slave revolt in which country?",
+      "correct_answer": "Haiti",
+      "incorrect_answers": ["France", "Cuba", "United States"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "In career mode of &quot;Need for Speed: Underground 2&quot;, the first car the player can drive is the BMW M3 GTR.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Rabbits can see what&#039;s behind themselves without turning their heads.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of the talking cat in Persona 5?",
+      "correct_answer": "Morgana",
+      "incorrect_answers": ["Teddie", "Marie", "Ryuji"]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which actor was not a major character in TV Show Freaks and Geeks?",
+      "correct_answer": "Jonah Hill",
+      "incorrect_answers": ["Jason Segel", "Seth Rogen", "James Franco"]
+    },
+    {
+      "category": "Mythology",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the first human being in Norse mythology?",
+      "correct_answer": "Ask",
+      "incorrect_answers": ["Asmund", "Ake", "Asger"]
+    },
+    {
+      "category": "Politics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What are the first names of the first father and son pair that were both Prime Ministers of Canada?",
+      "correct_answer": "Justin and Pierre",
+      "incorrect_answers": [
+        "John and Louis",
+        "Brian and Justin",
+        "Brian and Pierre"
+      ]
+    },
+    {
+      "category": "Entertainment: Musicals & Theatres",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who played Marquis de Lafayette and Thomas Jefferson in the original Broadway run of Hamilton?",
+      "correct_answer": "Daveed Diggs",
+      "incorrect_answers": [
+        "Lin-Manuel Miranda",
+        "Javier Mu&ntilde;oz",
+        "Wayne Brady"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the leader of the Brotherhood of Nod in the Command and Conquer series?",
+      "correct_answer": "Kane",
+      "incorrect_answers": ["Joseph Stalin", "CABAL", "Yuri"]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the series JoJo&#039;s Bizarre Adventure, which main character makes the greatest number of recurring appearances?",
+      "correct_answer": "Jotaro Kujo",
+      "incorrect_answers": [
+        "Giorno Giovanna",
+        "Joseph Joestar",
+        "Josuke Higashikata"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Lead Singer Rivers Cuomo of American rock band Weezer attended Harvard.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    }
   ]
 }

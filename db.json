@@ -498,21 +498,21 @@
   "profiles": [
     {
       "id": 1,
-      "name": "John Doe",
-      "email": "john.doe@example.com",
+      "name": "Hirak",
+      "email": "hirak@example.com",
       "password": "password123",
       "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "phone": "123-456-7890",
-      "profilePicture": "https://via.placeholder.com/150"
+      "phone": "1234567890",
+      "profilePicture": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/db/22/ce/db22ce03-fd13-b988-b8b0-0cca9dc339d7/source/256x256bb.jpg"
     },
     {
       "id": 2,
-      "name": "Jane Doe",
-      "email": "jane.doe@example.com",
+      "name": "Hirak",
+      "email": "hirak@example.com",
       "password": "password456",
       "bio": "Praesent non semper magna.",
-      "phone": "987-654-3210",
-      "profilePicture": "https://via.placeholder.com/150"
+      "phone": "1234567890",
+      "profilePicture": "https://i0.wp.com/www.howtomob.com/wp-content/uploads/2022/07/whatsapp-dp-for-boys-.jpg?ssl=1&resize=512%2C512"
     }
   ]
 }

@@ -494,5 +494,25 @@
       "correct_answer": "True",
       "incorrect_answers": ["False"]
     }
+  ],
+  "profiles": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "phone": "123-456-7890",
+      "profilePicture": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "email": "jane.doe@example.com",
+      "password": "password456",
+      "bio": "Praesent non semper magna.",
+      "phone": "987-654-3210",
+      "profilePicture": "https://via.placeholder.com/150"
+    }
   ]
 }

@@ -514,5 +514,33 @@
       "phone": "1234567890",
       "profilePicture": "https://i0.wp.com/www.howtomob.com/wp-content/uploads/2022/07/whatsapp-dp-for-boys-.jpg?ssl=1&resize=512%2C512"
     }
+  ],
+
+  "companyData": [
+    {
+      "companyInfo": {
+        "operatingCompany": "Pro Legal Serve",
+        "companyType": "B2B",
+        "lawFirm_businessName": "Flesh"
+      },
+      "address1": {
+        "type": "Company Address",
+        "state": "State",
+        "city": "City",
+        "country": "Country",
+        "zip": "Zip Code",
+        "phone": 1234567890
+      },
+      "LawFirmInfo": {
+        "speciality": "Family Firm",
+        "caseMangement": "Server Manger",
+        "accountManager": "Account Manager"
+      },
+      "CompanyNotificationSettings": {
+        "newUserInvited": "Email",
+        "newUserAdded": "Email",
+        "paymentMethodChanged": "Email"
+      }
+    }
   ]
 }

@@ -521,9 +521,9 @@
       "companyInfo": {
         "operatingCompany": "Pro Legal Serve",
         "companyType": "B2B",
-        "lawFirm_businessName": "Flesh"
+        "lawFirmBusinessName": "Flesh"
       },
-      "address1": {
+      "address": {
         "type": "Company Address",
         "state": "State",
         "city": "City",
@@ -531,12 +531,12 @@
         "zip": "Zip Code",
         "phone": 1234567890
       },
-      "LawFirmInfo": {
+      "lawFirmInfo": {
         "speciality": "Family Firm",
         "caseMangement": "Server Manger",
         "accountManager": "Account Manager"
       },
-      "CompanyNotificationSettings": {
+      "notificationSettings": {
         "newUserInvited": "Email",
         "newUserAdded": "Email",
         "paymentMethodChanged": "Email"

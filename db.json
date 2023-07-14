@@ -4707,9 +4707,19 @@
   ],
   "task": [
     {
-      "id": "97d240b1-985a-424e-b871-2449a3f8f532",
-      "title": "added 1",
-      "status":"ToDo"
+      "id": "6f19310b-15c1-4f6a-af3d-740fc1088173",
+      "title": "Added new Task",
+      "status": "To Do"
+    },
+    {
+      "id": "b7d89ac1-a958-4a59-b062-31f8eb86dfe8",
+      "title": "Do the assignment",
+      "status": "In Progress"
+    },
+    {
+      "id": "2d202ccc-18d2-49e4-8ac6-6c0285c4e721",
+      "title": "Do this with in two hours",
+      "status": "Completed"
     }
   ]
 }
